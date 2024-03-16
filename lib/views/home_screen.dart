@@ -202,7 +202,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 ),
                                 Text(
                                   icon['title'],
-                                  style: TextStyle(
+                                  style: const TextStyle(
                                       color: Colors.white,
                                       fontWeight: FontWeight.w500,
                                       fontSize: 16,
