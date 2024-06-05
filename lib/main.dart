@@ -1,12 +1,12 @@
-import 'package:ecomm_app/views/onboarding_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:wildlife/views/onboarding_screen.dart';
 
 void main() {
-  runApp(const EcomApp());
+  runApp(const WildLife());
 }
 
-class EcomApp extends StatelessWidget {
-  const EcomApp({super.key});
+class WildLife extends StatelessWidget {
+  const WildLife({super.key});
 
   @override
   Widget build(BuildContext context) {

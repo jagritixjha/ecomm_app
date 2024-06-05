@@ -1,5 +1,6 @@
-import 'package:ecomm_app/controller/global_variable.dart';
 import 'package:flutter/material.dart';
+
+import '../controller/global_variable.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
